@@ -9,22 +9,13 @@ Menu Project (folder)
 ├── public
 │     └── index.html
 ├── src
-│    ├── components
-│    │       ├── card
-│    │       │     ├── Card.css
-│    │       │     └── Card.jsx
-│    │       ├── header
-│    │       │     ├── Header.css
-│    │       │     └── Header.jsx
-│    │       └── navbar
-│    │             ├── Navbar.css
-│    │             └── Navbar.jsx
-│    ├── helper
-│    │       └── data.js
-│    ├── App.jsx
+│    ├── App.js
 │    ├── App.css
-│    ├── index.jsx
+│    ├── index.js
 │    └── index.css
+│    └── data.js
+│    └── Categories.jsx
+│    └── Menu.jsx
 ├── package.json
 └── yarn.lock
 ```
