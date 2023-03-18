@@ -29,9 +29,9 @@ Menu Project (folder)
 └── yarn.lock
 ```
 ## Project-gif
-
+![menu-project](https://user-images.githubusercontent.com/102467587/226139202-86b875b5-e610-4330-b97c-95e85ce913fd.gif)
 ## Project-link
-
+https://react-menu-project-eta.vercel.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
