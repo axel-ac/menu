@@ -1,6 +1,3 @@
-[![Build Status](https://github.com/axel-ac)]
-[![License: MIT](https://github.com/axel-ac)]
-[![HitCount](https://github.com/axel-ac)]
 # Menu Project
 ## Description
 Project aims to create a menu.
