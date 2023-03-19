@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/Yog9/SnapShot.svg?branch=master)](https://travis-ci.org/Yog9/SnapShot)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HitCount](http://hits.dwyl.com/Yog9/SnapShot.svg)](http://hits.dwyl.com/Yog9/SnapShot)
+[![Build Status](https://github.com/axel-ac)]
+[![License: MIT](https://github.com/axel-ac)]
+[![HitCount](https://github.com/axel-ac)]
 # Menu Project
 ## Description
 Project aims to create a menu.
